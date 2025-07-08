@@ -1,0 +1,20 @@
+# Source files (since we're publishing built files)
+src/
+tests/
+examples/
+
+# Development files
+.gitignore
+.eslintrc.js
+.prettierrc
+jest.config.js
+rollup.config.js
+babel.config.js
+
+# Build artifacts
+coverage/
+*.log
+
+# Editor files
+.vscode/
+.idea/
