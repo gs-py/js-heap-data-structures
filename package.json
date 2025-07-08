@@ -2,9 +2,9 @@
   "name": "js-heap-data-structures",
   "version": "1.0.1",
   "description": "A comprehensive JavaScript implementation of Min Heap and Max Heap data structures with practical utilities",
-  "main": "index.js",
-  "module": "index.esm.js",
-  "types": "index.d.ts",
+  "main": "dist/index.js",
+  "module": "dist/index.esm.js",
+  "types": "dist/index.d.ts",
   "scripts": {
     "test": "jest",
     "build": "rollup -c",
