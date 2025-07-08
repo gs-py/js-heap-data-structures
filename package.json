@@ -23,16 +23,16 @@
     "javascript",
     "typescript"
   ],
-  "author": "Your Name <your.email@example.com>",
+  "author": "Gladwin Santhosh <s.gladwin.in@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/js-heap-data-structures.git"
+    "url": "git+https://github.com/gs-py/js-heap-data-structures.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/js-heap-data-structures/issues"
+    "url": "https://github.com/gs-py/js-heap-data-structures/issues"
   },
-  "homepage": "https://github.com/yourusername/js-heap-data-structures#readme",
+  "homepage": "https://github.com/gs-py/js-heap-data-structures#readme",
   "files": [
     "dist/",
     "index.js",
