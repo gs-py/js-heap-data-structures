@@ -1,8 +1,7 @@
-// index.js - Main entry point for the heap package
-const MinHeap = require('./src/MinHeap');
-const MaxHeap = require('./src/MaxHeap');
-const PriorityQueue = require('./src/PriorityQueue');
-const { heapSort, findKLargest, findKSmallest } = require('./src/utils');
+const MinHeap = require('./dist/index.cjs.js').MinHeap;
+const MaxHeap = require('./dist/index.cjs.js').MaxHeap;
+const PriorityQueue = require('./dist/index.cjs.js').PriorityQueue;
+const { heapSort, findKLargest, findKSmallest } = require('./dist/index.cjs.js');
 
 module.exports = {
     MinHeap,
